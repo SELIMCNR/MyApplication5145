@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textbox_yukseklik">75dp</dimen>
+</resources>

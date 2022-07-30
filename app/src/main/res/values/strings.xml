@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">My Application</string>
+    <string name="isim">Değer</string>
+    <string name="Ad">"Ad: "</string>
+    <string name="Soyad">Soyad:</string>
+    <string name="Ad1">Ad:</string>
+    <string name="Kaydet">Kaydet</string>
+    <string-array name="aylar">
+        <item>Ocak</item>
+        <item>Şubat</item>
+        <item>Mart</item>
+        <item>Nisan</item>
+    </string-array>
+</resources>
